@@ -14,7 +14,7 @@ IT Security Consultant, Penetration Tester
 
 ## Career Profile
 
-I'm an IT Security Consultant & Penetration Tester with 10 years experience in IT Security and 6 years of professional experience in IT Security Consulting targeting various companies in FinTec, Chemical Industries, Banking, Automotive Industry. With at least basic knowledge in a wide variety of IT Security topics, my major focus is on penetration testing and reverse engineering of various devices. I'm highly motivated to learn new tricks, broaden my knowledge getting to know other work environments.
+I'm an IT Security Consultant & Penetration Tester with 10 years experience in IT Security and 8 years of professional experience in IT Security Consulting targeting various companies in FinTec, Chemical Industries, Banking, Automotive Industry. With at least basic knowledge in a wide variety of IT Security topics, my major focus is on penetration testing and reverse engineering of various devices. I'm highly motivated to learn new tricks, broaden my knowledge getting to know other work environments.
 
 ## Core Competencies
 Burp Suite, CANAPE, IDA Pro, CobaltStrike, Metasploit, Immunity, Wireshark, Linux/Unix Administration, Security Monitoring, Hardware Hacking (SPI, JTAG, etc.), Docker, Python, Bash, Social Engineering, Lockpicking (pending)
