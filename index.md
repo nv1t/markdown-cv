@@ -67,6 +67,14 @@ During the 5-Euro-Business competition i founded with 4 fellow students the Koup
 
 ## Publications
 
+<a href="https://nv1t.github.io/blog/kekz-headphones/"><i class="fas fa-book"></i> **Reverse Engineering and Dismantling Kekz Headphones**</a>, *blog.nv1t.me*
+
+The post details the reverse engineering of Kekz headphones to understand their NFC-based audio playback system.
+
+<a href="https://nv1t.github.io/blog/swapping-heads-a-disk-y-business/"><i class="fas fa-book"></i> **Swapping Heads: A Disk-y Business</a>, *blog.nv1t.me*
+
+HDD Recovering of a clicking drive through head swap and less intrusive imaging.
+
 <a href="https://nv1t.github.io/blog/i-hate-you-wd"><i class="fas fa-book"></i> **I hate you, WD**</a>, *blog.nv1t.me*
 
 Recovering a failing HDD by swapping the bios chips on a PCB and disabling the re-location list for faster transfer speed.
