@@ -71,7 +71,7 @@ During the 5-Euro-Business competition i founded with 4 fellow students the Koup
 
 The post details the reverse engineering of Kekz headphones to understand their NFC-based audio playback system.
 
-<a href="https://nv1t.github.io/blog/swapping-heads-a-disk-y-business/"><i class="fas fa-book"></i> **Swapping Heads: A Disk-y Business</a>, *blog.nv1t.me*
+<a href="https://nv1t.github.io/blog/swapping-heads-a-disk-y-business/"><i class="fas fa-book"></i> **Swapping Heads: A Disk-y Business**</a>, *blog.nv1t.me*
 
 HDD Recovering of a clicking drive through head swap and less intrusive imaging.
 
