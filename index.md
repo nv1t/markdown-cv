@@ -6,18 +6,22 @@ title: Jan Hoersch's CV
 IT Security Consultant, Penetration Tester
 
 <div id="webaddress">
-  <a href="https://nv1t.github.io"><i class="fas fa-home"></i> nv1t.github.io</a> - 
+  <a href="https://nv1t.github.io"><i class="fas fa-home"></i> nv1t.github.io</a> -
   <a href="https://keybase.io/nv1t"><i class="fas fa-users"></i> keybase.io/nv1t</a> -
-  <a href="https://github.com/nv1t"><i class="fab fa-github"></i> nv1t</a> - 
+  <a href="https://github.com/nv1t"><i class="fab fa-github"></i> nv1t</a> -
   <a href="https://twitter.com/nv1t"><i class="fab fa-twitter"></i> @nv1t</a>
 </div>
 
 ## Career Profile
 
-I'm an IT Security Consultant & Penetration Tester with 10+ years experience in IT Security and 8 years of professional experience in IT Security Consulting targeting various companies in FinTec, Chemical Industries, Banking, Automotive Industry. With at least basic knowledge in a wide variety of IT Security topics, my major focus is on penetration testing and reverse engineering of various devices. I'm highly motivated to learn new tricks, broaden my knowledge getting to know other work environments.
+IT Security Consultant with 12+ years of experience, specializing in **penetration testing, red teaming, and reverse engineering** across diverse industries including **FinTech, chemical, banking, and automotive**. Experienced in both technical deep-dives (hardware hacking, code reviews, exploit development) and scenario-driven security assessments (red team operations, physical security). Passionate about building internal tools, mentoring teams, and advancing security research.
 
 ## Core Competencies
-Burp Suite, CANAPE, IDA Pro, CobaltStrike, Metasploit, Immunity, Wireshark, Linux/Unix Administration, Security Monitoring, Hardware Hacking (SPI, JTAG, etc.), Docker, Python, Bash, Social Engineering, Lockpicking (pending)
+- **Offensive Security**: Penetration Testing (Web, Mobile, Infrastructure), Red Teaming, Physical Security, Social Engineering
+- **Reverse Engineering**: Embedded Systems, Hardware Interfaces (SPI, JTAG, UART), Binary Analysis (IDA Pro, Immunity, emba)
+- **Tools & Frameworks**: Burp Suite, Metasploit, CobaltStrike, CANAPE, Wireshark
+- **Development & Automation**: Python, Bash, Docker, Linux/Unix Administration
+- **Additional**: Security Monitoring, Hardware & IoT Security
 
 ## Education
 
@@ -38,7 +42,7 @@ Burp Suite, CANAPE, IDA Pro, CobaltStrike, Metasploit, Immunity, Wireshark, Linu
 `2021-present`
 **Senior Security Consultant**, *SSE - Secure Systems Engineering GmbH*
 
-Penetrationtests (Web-Applications, Infrastructure, Mobile, Cloud, Code Review), scenario based tests and Redteams for various customers (FinTec, Chemical Industries, Banking, Automotive), internal tool development
+Conducted penetration tests across web applications, infrastructure, mobile, cloud environments, and code reviews; performed scenario-based assessments, red team engagements, and physical security tests for clients in FinTech, chemical, banking, and automotive sectors; developed internal security tools to enhance testing efficiency.
 
 `2018-2021`
 **Lead Security Consultant**, *Context Information Security Ltd.*
@@ -58,13 +62,6 @@ Performing penetration tests and reverse engineering tasks on mobile application
 During 2.5 years as a trainee as a network engineer, i managed several tasks, mainly system programming, server monitoring as well as internal software audits based on network environment and web applications.
 
 
-`2011`
-**Founder**, *Kouponki*
-
-During the 5-Euro-Business competition i founded with 4 fellow students the Kouponki GbR. With a lot of engagement we managed to win the comptetion with this start-up company.
-
-
-
 ## Publications
 
 <a href="https://nv1t.github.io/blog/kekz-headphones/"><i class="fas fa-book"></i> **Reverse Engineering and Dismantling Kekz Headphones**</a>, *blog.nv1t.me*
@@ -73,7 +70,7 @@ The post details the reverse engineering of Kekz headphones to understand their 
 
 <a href="https://nv1t.github.io/blog/swapping-heads-a-disk-y-business/"><i class="fas fa-book"></i> **Swapping Heads: A Disk-y Business**</a>, *blog.nv1t.me*
 
-HDD Recovering of a clicking drive through head swap and less intrusive imaging.
+HDD Recovery of a clicking drive through head swap and less intrusive imaging.
 
 <a href="https://nv1t.github.io/blog/i-hate-you-wd"><i class="fas fa-book"></i> **I hate you, WD**</a>, *blog.nv1t.me*
 
@@ -103,16 +100,14 @@ Accessing undocumented APIs from big companies is fun. Especially if you get loa
 
 Reverse Engineering of multiple RFID payment systems from different universities. Most of these systems were based on Mifare Classic Cards with custom encryption on the card.
 
-<a href="https://media.ccc.de/v/saal_mp7_og_-_2012-05-19_21_15_-_men_who_stare_at_bits_-_nuit_-_murx_-_64"><i class="fab fa-youtube"></i> **Men who stare at bits**</a>, *Sigint12* 
+<a href="https://media.ccc.de/v/saal_mp7_og_-_2012-05-19_21_15_-_men_who_stare_at_bits_-_nuit_-_murx_-_64"><i class="fab fa-youtube"></i> **Men who stare at bits**</a>, *Sigint12*
 
 Reverse Engineering of one RFID payment system with custom encryption of the credit sector of the card.
 
-<a href="https://nv1t.github.io/blog/douding-document-sharing-network"><i class="fas fa-book"></i> **Douding Document Sharing**</a>, *blog.nv1t.me*
-
-Reverse Engineering of the Douding Document Sharing Network Reader
-
 
 ## Projects
+
+<a href="https://github.com/nv1t/virtualbox-web-panel"><i class="fab fa-github"></i>Virtualbox Web Panel</a> - A lightweight HTTP server script, with standard Python3 libraries, that offers a simple web interface for controlling and interacting with VirtualBox virtual machines.
 
 <a href="https://github.com/nv1t/standing-desk-interceptor"><i class="fab fa-github"></i> **Standing Desk Interceptor**</a> - Reverse Engineering my standing desk to create more functionality. It consists of two UART Communication channels and a custom protocol running between two Microcontrollers.
 
@@ -122,12 +117,10 @@ Reverse Engineering of the Douding Document Sharing Network Reader
 
 
 ## Personal
-Birth date: 28. July 1988
-
 Citizenship: German
 
 Residence: Dresden, Germany
 
-<br/>Last updated: May 2021
+<br/>Last updated: September 2025
 
 
