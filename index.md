@@ -17,8 +17,8 @@ IT Security Consultant, Penetration Tester
 IT Security Consultant with 10+ years of experience, specializing in **penetration testing, red teaming, and reverse engineering** across diverse industries including **FinTech, chemical, banking, and automotive**. Experienced in both technical deep-dives (hardware hacking, code reviews, exploit development) and scenario-driven security assessments (red team operations, physical security). Passionate about building internal tools, mentoring teams, and advancing security research.
 
 ## Core Competencies
-- **Offensive Security**: Penetration Testing (Web, Mobile, Infrastructure), Red Teaming, Physical Security, Social Engineering
-- **Reverse Engineering**: Embedded Systems, Hardware Interfaces (SPI, JTAG, UART), Binary Analysis (IDA Pro, Immunity, emba)
+- **Offensive Security**: Penetration Testing (Web, Mobile, Infrastructure), Red Teaming, Physical Security
+- **Reverse Engineering**: Embedded Systems, Hardware Interfaces (SPI, JTAG, UART), Binary Analysis (IDA Pro, Immunity, Emba)
 - **Tools & Frameworks**: Burp Suite, Metasploit, CobaltStrike, CANAPE, Wireshark
 - **Development & Automation**: Python, Bash, Docker, Linux/Unix Administration
 - **Additional**: Security Monitoring, Hardware & IoT Security
@@ -107,7 +107,7 @@ Reverse Engineering of one RFID payment system with custom encryption of the cre
 
 ## Projects
 
-<a href="https://github.com/nv1t/virtualbox-web-panel"><i class="fab fa-github"></i>Virtualbox Web Panel</a> - A lightweight HTTP server script, with standard Python3 libraries, that offers a simple web interface for controlling and interacting with VirtualBox virtual machines.
+<a href="https://github.com/nv1t/virtualbox-web-panel"><i class="fab fa-github"></i> **Virtualbox Web Panel**</a> - A lightweight HTTP server script, with standard Python3 libraries, that offers a simple web interface for controlling and interacting with VirtualBox virtual machines.
 
 <a href="https://github.com/nv1t/standing-desk-interceptor"><i class="fab fa-github"></i> **Standing Desk Interceptor**</a> - Reverse Engineering my standing desk to create more functionality. It consists of two UART Communication channels and a custom protocol running between two Microcontrollers.
 
@@ -120,7 +120,3 @@ Reverse Engineering of one RFID payment system with custom encryption of the cre
 Citizenship: German
 
 Residence: Dresden, Germany
-
-<br/>Last updated: September 2025
-
-
