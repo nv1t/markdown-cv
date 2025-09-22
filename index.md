@@ -9,7 +9,7 @@ IT Security Consultant, Penetration Tester
   <a href="https://nv1t.github.io"><i class="fas fa-home"></i> nv1t.github.io</a> -
   <a href="https://keybase.io/nv1t"><i class="fas fa-users"></i> keybase.io/nv1t</a> -
   <a href="https://github.com/nv1t"><i class="fab fa-github"></i> nv1t</a> -
-  <a href="https://twitter.com/nv1t"><i class="fab fa-twitter"></i> @nv1t</a>
+  <a href="https://chaos.social/@nv1t"><i class="fab fa-mastodon"></i> nv1t@chaos.social</a>
 </div>
 
 ## Career Profile
