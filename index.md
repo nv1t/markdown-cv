@@ -14,7 +14,7 @@ IT Security Consultant, Penetration Tester
 
 ## Career Profile
 
-IT Security Consultant with 12+ years of experience, specializing in **penetration testing, red teaming, and reverse engineering** across diverse industries including **FinTech, chemical, banking, and automotive**. Experienced in both technical deep-dives (hardware hacking, code reviews, exploit development) and scenario-driven security assessments (red team operations, physical security). Passionate about building internal tools, mentoring teams, and advancing security research.
+IT Security Consultant with 10+ years of experience, specializing in **penetration testing, red teaming, and reverse engineering** across diverse industries including **FinTech, chemical, banking, and automotive**. Experienced in both technical deep-dives (hardware hacking, code reviews, exploit development) and scenario-driven security assessments (red team operations, physical security). Passionate about building internal tools, mentoring teams, and advancing security research.
 
 ## Core Competencies
 - **Offensive Security**: Penetration Testing (Web, Mobile, Infrastructure), Red Teaming, Physical Security, Social Engineering
