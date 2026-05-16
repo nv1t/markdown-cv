@@ -38,8 +38,12 @@ IT Security Consultant with 10+ years of experience, specializing in **penetrati
 **IT Specialist for System Integration**
 
 ## Experience
+`2026-present`
+**Managing Consultant**, *HiSolutions AG*
 
-`2021-present`
+I analyze and secure the intersection of physical and digital infrastructure. Moving beyond standard web and cloud pentesting, my current work focuses on security assessments of Operational Technology (OT/ICS) and critical infrastructure environments. This includes hardware reverse engineering, firmware analysis, and vulnerability research on embedded devices, combined with close-access physical red team testing and tactical entry.
+
+`2021-2025`
 **Senior Security Consultant**, *SSE - Secure Systems Engineering GmbH*
 
 Conducted penetration tests across web applications, infrastructure, mobile, cloud environments, and code reviews; performed scenario-based assessments, red team engagements, and physical security tests for clients in FinTech, chemical, banking, and automotive sectors; developed internal security tools to enhance testing efficiency.
@@ -49,12 +53,10 @@ Conducted penetration tests across web applications, infrastructure, mobile, clo
 
 Penetrationtests (Web-Applications, Infrastructure, Mobile, Cloud, Code Review), scenario based tests and Redteams for various customers (FinTec, Chemical Industries, Banking, Automotive), internal tool development
 
-
 `2014-2018`
 **IT Security Consultant**, *Securai GmbH*
 
 Performing penetration tests and reverse engineering tasks on mobile application, web applications and rich clients for various customers.
-
 
 `2011-2014`
 **Network & Security Engineer**, *TMT GmbH & Co. KG*
